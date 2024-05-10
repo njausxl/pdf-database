@@ -1,0 +1,1017 @@
+Review Effectorsandenvironmentmodulating riceblast disease:fromunderstandingtoeffective control Yanjun Kou , 1, * Huanbin Shi, 1 Jiehua Qiu, 1 Zeng Tao , 2, * and Wenming Wang 3, * Rice blastisahighlydestructivecropdiseasethatrequirestheinterplayofthree essentialfactors:thevirulentblastfungus,thesusceptiblericeplant,andfavor- ableenvironmentalconditions .
+Althoughpre viou sstudieshavefocusedmainly onthe pathogenandrice,recentresearchhasshedlightonthemolecularmech- anismsbywhichtheblastfungusandenvironmentalconditionsregulatehostre- sistanceandcontributetoblast diseaseoutbreaks.
+Thisreviewsummarizes signi  cantachievementsinunderstandingthesophisticatedmodulationofblast resistanceby Magnaportheoryzae effectorsandthedualregulatorymechanisms bywhichenvironmentalconditionsin  uence riceresistanceandvirulenceofthe blastfungus.
+Furthermore,itemphasizespotent ialstrat egiesfordevel oping blast-resistantrice varietiestoeffectivelycontrolblastdisease.
+Riceblastisoneofthemostdevastatingplant diseases Riceblas t,cause dbythe  lamentousfungus M.
+or yz ae (see Glossa ry ),isahighlydestructive forcein globalriceproduction,leadingtothelossofapproximately20%to30%oftheannual riceharvest[ 1 , 2 ].
+M.
+oryzae ranksamong thetoptendevastatingfungalpathogensandalso causesblastdiseaseonmorethan50speciesof monocotplants,includingimportant crops suchasmilletand,most recently,wheat[ 2 ].
+Thetypicaldiseasesymptomof M.
+oryzae infection is diamond-shapedlesionsw it hgrayishcentersandbrownedgesthatprogresstonecrosis underfavorableconditions.
+In responseto M.
+oryzae infection,riceplants deployelaboratecon- stitutiveandinducible defensemediatedby resistance ( R ) and defense-regulatorgenes .
+However, M.
+oryzae possesses theabilitytomanipulatericeimmunitythroughvariousstrategies, includingthe generationofalargenumberof effectors ,tofacilitateinfectionandinducethe dis- easeonthehost.
+Recentresearchunders coresthepivotalrole ofenvironmentalconditionsin blastdisease.
+Consequently,thisreviewemphasizesrecentadvancements intheunderstanding ofhow M.
+oryzae effectorsandenvironmentalconditionsmodulateblastresistance.
+Additionally, weoutlinepotentialstrategiesfordevelopi ng blast-resistantricevarietieswith R anddefense- regulatorgenes.
+Modulationofriceimmunityby M.
+oryzae effectors Thesophisticatedplantimmunesystemservesas abarrier againstfungalinfection; yet,pathogens cou nterbyreleasi ng adiversearrayofeff ectorsintohostcells.
+The seeff ectorsmanipulatethe physiologyandmetabolismofthe hostwhile concurrentlysuppressingimmunity[ 3 ].
+Pathogens deploytheseeffectors,categorizedaseitherapoplasticeffectorsactingatthehost pathogen inter- faceorcytoplasmiceffectorsfunctioningwithinplantcells,manipulatinghostprocessestofacilitate theirinfection[ 4 ].
+Todate,numerous effectorshavebeenidenti  edintheblastfungus ( Figure1 and Table1 ).
+Speci  ccytoplasm iceff ectorshavebeendiscovere dtobe recognizedby R genesto Highlights Diseaseoutbreaksareshapedbythe diseasetriangle, comprisingavirulent pathogen,asusceptibleplant,and appropriateenvironmentalconditions.
+Recent advances haveshedlight onthe intricateenvironment plant pathogen interactions.
+Riceresistanceismanipulatedbycyto- plasmic andapoplastic effectorsse- cretedby Magnaportheoryzae .
+Environmentalfactorsplayasigni  cant rolein bothblast diseaseepidemics andtheregulationofhost(orrice) resistance.
+Strategiessuchas proteinengineering, genomeediting,andhost-induced genesilencinghavebeenemployedef- fectivelytoengineerblast-resistantrice plants.
+1 StateKeyLaboratoryofRiceBiology andBreeding,ChinaNational Rice ResearchInstitute,Hangzhou311400, China 2 MinistryofAgricultureKeyLaboratory ofMolecularBiologyofCropPathogens andInsects,InstituteofBiotechnology, InstituteofBiotechnology,Zhejiang University,Hangzhou310058,China 3 StateKeyLaboratoryofCropGene ExplorationandUtilizationinSouthwest China,SichuanAgricultural University, Chengdu611130,China *Correspondence: kouyanjun@caas.
+cn (Y.
+Kou), taozeng@zju.
+edu.
+cn (Z.
+Tao),and j316wenmingwang@sicau.
+edu.
+cn (W.
+Wang).
+TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx https://doi.
+org/10.
+1016/j.
+tim.
+2024.
+03.
+006 1 2024ElsevierLtd.
+Allrightsreserved.
+Trendsin Microbiology TIMI2380No.
+ofPages14 trigger R gene-mediatedresistanceandalsotargetriceproteinstosuppress basalresistance .
+Additionally,somecytoplasmiceffectorstargetthericenucleusandexhibitcapabilitiesas transcriptionfactorsto reprogramtheexpre ssionofricegenes.
+Simultaneously,certain ap oplasticeffectorshavetheabili tytodampenextracell ularim munityinriceandevadedetec- tio nbyhostsurveillance.
+Speci  ccytoplasmiceffectorstrigger R gene-mediatedresistanceandtargetriceproteinsto suppressbasalresistance In M.
+oryzae ,fourcytoplasmiceffectors,namelyAvr-Pita,Avr-Pii,AvrPiz-t,and AvrPi9,arerecog- nizedasavirulencefactorsbytheircognateRproteins,Pita,Pii,Piz-t, andPi9,totriggertheblast diseaseresistance [ 5 8 ].
+Meanwhile,theseeffectorssuppressbasalresistancebytargeting rice defense-regulatorproteins.
+Forinstance,Avr-Pita,azincmetalloprotease,suppresseshostbasal resistancebyinterferingwiththericemitochondria cytochromecoxidase(COX)assemblyprotein OsCOX11.
+Thisinterference enhancesmitochondrialcomplexIV activity, resultinginreducedac- cumulationofreactiveoxygenspecies(ROS)[ 9 , 10 ].
+Similarly,theeffectorAvr-Piisuppresses basalresistance bytargeting the riceNADP- malicenzymetorepress theproductionofROS andbindsaconservedexocystsubunitOsExo70tomanipulatericeexocytosis[ 6 , 11 ].
+Compre- hensivestudieselucidatethattheeffectorAvrPiz-tmodulatesbasalresistancebytargetingvari- ousriceproteins, includingBowman Birktrypsin inhibitorAPIP4, transcriptionfactorAPIP5, E3 ubiquitinligasesAPIP6andAPIP10,nucleo porinprotein Nup98 homologAPIP12,andthe plasma memb rane-localize dK + channelproteinOsAKT1[ 12 19 ].
+Inaddition,AvrPiz-t mimics thestructureofROD1,triggeringROSscavengingtosupp resshostimmunityandenhancevir- ulence[ 20 ].
+The effector AvrPi9degradesthe deubiquitinasePICI1andthe E3ubiquitinligase OsRGLG5,dampeningbasalresistance[ 21 , 22 ].
+Furthermore,AvrPi9-m ediatedregulationof theANIP1-OsWRKY62modul e hasemergedasa pivotalfactor controllingbothbasaldefense andPi9-mediate dblastresistanceinrice,p rovidingdeep er insightsintoitsmechanismofac- tion[ 23 ].
+Certain cytoplasmiceffectorsinterferewith resistancebyspeci  callytargetingthericenucleus Althoughthegeneraltargetsofm ostcytoplasm iceffectors arewithinthecytoplasm,recent advanceshaveunve iledthespeci  corganelletargetingof M.
+oryzae effectorswithin ricecells.
+Notably, M.
+oryzae cytoplasm iceff ectors MoHTR1,MoHTR2,andMoHTR3(host transcription reprogramming1,2,and3)localizewithinthericenucleus.
+LeveragingtheirC2H2zinc  ngerdo- main,theseeffectorsbindtothepromoterandorchestrateexpressionoftargetgenes inricedur- ing M.
+oryzae infections,t husenhancingsu scepti bil itytoblastfungus[ 24 , 25 ].
+Similarly,the cytoplasmiceffector MoIug4(isolate-uniquegenes)containsazincbindingdomain at itsCtermi- nalandexhibitsgenerepressoractivity[ 26 ].
+MoIug4competeswiththeAT-hook protein OsAHL1,displayingaheightenedaf  nityforthepromoterof OsEIN2 ,apositivecomponentin ethylenesignaling.
+Bydownregulating OsEIN2 expression,Mo Iug4signi  cantlycontributesto diseaseprogression.
+Recently,Zhu etal.
+foundthatMoSPAB1entersnucleianddirectlyactivates rice Bsr-d1 expression tofacilitatepathogenesis[ 27 ].
+Additionally,certaincytoplasmiceffectors, suchasMoCDIP4(celldeath inducingprotein4),targetricemitochondriatoregulateblastresis- tanceorserveotherfunctions[ 28 ].
+Apoplasticeffectorssuppressextracellularimmunity inrice Duringearly M.
+oryzae infections,ricecellsurfacereceptors,OsCEBiPandOsCERK1,recog- nizechitin,initiatingbasalresistance[ 29 ].
+However, M.
+oryz ae usesseveralapoplasticeffec- tors,includingMoSlp1,MoAa91,andMoChia1,tointerferewithchitinrecognitionand suppressimmunityresponses.
+MoSlp1,a peptide with twoLysMdomains,andthe auxiliary activityfamilyprotein MoAa91 compete with OsCEBiPforchitin binding,hindering ROS TrendsinMicrobiology 2 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx Glossary Basalresistance: plantspossesstwo majortypesofdiseaseresistance:basal resistanceand R gene mediated resistance.
+Basalresistanceisactivated bytherecognitionofmoleculesthatare commontomanyclassesofmicrobes.
+It reducespathogenspreadafter successful infectionandonsetof disease.
+Bycontrast, R gene mediated resistanceisactivatedbyrecognizing pathogenvirulencefactorswith R proteins.
+Defense-regulatorgene: genes involvedinthetransductionofimmune- relatedsignals,inadditionto R genes.
+In thisreview,defense-regulatorgenes encompassgenesencodingeffector- targetedproteins,genesinvolvedin environmentallyregulatedresistance, andallothergenesexcluding R genes.
+Effector: the proteinsthatare secreted bypathogensintotheextracellularand intracellularspacesofhostplantstoaid infection.
+Theseeffectorstypically range from50to300aminoacidresiduesin length andcontainanN-terminalsignal peptidewith ahighly speci  csequence.
+Someoftheseeffectorscanbe recognizedbyplantresistanceproteins andactivateplantimmunityresponse knownasavirulence(Avr)factors.
+Ge no meed it in g: anapproachfor targetedinsertions,deletions,and/or replacement ofgenomesequences usingtoolssuchastheCRISPR/Cas9 systemaswellastheprecisionediting systemPrimeEditor.
+Heavymetal-associateddomain (HMA): aconserveddomainfoundina numberofproteinsthattransportor detoxifyheavymetals,consistingof approximately30aminoacidresidues.
+PlantNLRs,suchaspi21,RGA5,and Pik-1 inrice,haveevolvedtoincorporate diverseunconventionalintegrated domainHMAtodetectpathogen effectorssuchasMAX( Magnaporthe AVRsandToxB-like)effectors.
+These MAXeffectors,althoughsequence unrelated,shareacommonfold characterizedbya  -sandwichcore oftenstabilizedbyaconserveddisul  de bond.
+MAXeffectorsrepresenta signi  cantportionoft heclonedavirulence effectors,includingAvr-CO39,Avr-Pia , Avr-Pib,Avr-Pik,andAvrPiz-t.
+Notably, theintegratedHMA domainsinRGA5 andPikp-1provideuniquebinding surfaces forthespeci  crecognition oftwo MAXe ffe ctors:AVR1-CO39a nd AVR- PikD.
+accumulationandsuppression ofth eexpressionofdefe nsegene s[ 30 , 31 ].
+Likewise, MoChia1/Mo Chi1,a GH_18famil ychitinase,bindstoanddegradeschitinwithin theap oplast [ 32 ].
+Furthermore,MoChia1c ompeteswithric ej acalin-relatedmannose-bindinglectin, OsMBL1,for chitin binding,suppressingchitin-inducedROSanddefensegeneexpression inrice[ 33 ].
+However,OsTPR1compet eswit hMoChia1forchitinbinding,leadingt ochitin accumulationandreinstatingchitin-triggereddefense[ 32 ].
+Consequently,abattleforchitin dominanceensuesbetweenthepathogeneff ectorMoChia1andhostproteinsOsMBL1and OsTPR1,ultimatelyshaping riceresistanceor su sceptibility.
+Infact, thewarfareo ncellwall componentsseem smuch m orecom plicatedthan initiallythought.
+Forexample,tobreach theprimaryphysicalanddefensi vebarrieragainstpathogens, M .
+oryzae secretescellwall degradingenzymes,suchasglycosylhydrolasefamily  -glucanasesMoCel12Aand MoCel12B, a swella sxylanaseMoCel10A [ 34 , 35 ].
+Inresponse,riceDUF26 domainprotein OsRMCbindstoMoCel10A,inhibitingitsx ylanas eactivityintheapoplasticspace, fortifying defensesagainstblastfungusinvasion[ 35 ].
+Recent  ndingselucidatedthatthesecreted exo-  -1,3-glucanaseMoEbg1effectivelysuppresses  -1,3-glucan triggeredplantimmunity.
+Additionally,MoEbg1hastheabilityt oinducer iceimmunity,butthisinductionisdampened bythesecretionofelongationfactor1 alphaprotein(Mo EF1  )oftheblastfungus[ 36 ].
+Another ap oplasticeffector,Mo Ao1,inte rfereswithriceascorbateoxidasesOsAO3andOsAO4,atte n- uating theirenzymaticac tivities.
+Thisdisturb anceinth eapoplastredoxbalanceweakensROS- mediatedimmunity[ 37 ].
+Inconclusion,apoplasticeffectorsof M.
+oryzae playvitalroles inthe battlegroundofcellwall s,orchestrating extracellularim mu nityin rice.
+Blastdiseaseisregulatedbyenvironmentalconditions Themerepresenceofpathogenic M.
+oryzae anda susceptible rice plantisinsuf  cientforthe onset ofblastdisease;instead,ithingesonthepresenceofafavorableenvironment.
+This review encapsulatesthe potentialimpactsofvariousenvironmentalfactors,includingambienttempera- ture,humidity,andlight,onriceblastdisease,focusingonmechanismsbywhichenvironmental factorsregulateblastfungalvirulenceandriceimmunity( Figure2 ).
+Temperaturemodulatesblastoccurrenceviamultiplemodes ofaction Temperature  uctuationssigni  cantlyin  uencetheepidemicsofriceb lastinagricultural  elds, particularlymanifesting betweent e mperaturesof24 Cand 26 Corlower[ 38 , 39 ].
+Global warmingwilla lterthepre valenceofric eblastdis ease.
+Itispredicted thatinthecoolsubtropics, suchas JapanandNorthe rnChina,anele vationoftemperatureabovetheno rmalrangeresults inmoresevereblastepidemics[ 40 ].
+Bycontrast,inwarmerhumidsubtropics,e le vationof temperaturecausedlesssevereblastepidemics[ 40 ].
+Notably,temperaturevariations havea signi  canteffectonsporegermination,appressoriaf ormation,andpenetrationintoricecells in M.
+oryzae [ 41 ].
+ItwasshownthatthericeblastfungustranscriptionfactorMoSlf1 andthe cytosolicthiouridylaseMoCTU2regulateits resp onsetoambientte mperatureandarerequired forinfection[ 42 , 43 ].
+Add itionally,temperatureactsasakeyregulatorinrice R gene-med iated blastresistance.
+Fo rexample,h ightemperaturescompromise R gene Pi54 -mediatedresis- tance,whereas Pib -mediatedblastresistanceis inducedbyelevatedtemperatures [ 38 , 44 ].
+RecentresearchbyQiu etal.
+revealedthatwarmtemperaturecompromisesjasmonicacid (JA)-regulatedbasalresis tance, therebyenhancing M.
+oryzae infectioninrice[ 45 ].
+This temperature-modulatedresistanceinvolves the directregulationofbasalresistancegenes, suchas OsCEBiP (chitinelicitor-bindingproteinpr ecursor),bythetranscriptionfactor OsMYB22anditsinteractingproteinOsMYC 2,pivotal componentsinJAsignaling[ 45 ].
+Re- markably,theapplicationofMeJA(methyl jasmonate)improvesresistanceagainst M.
+oryzae ,offeringpromisingstrategiesformanagi ngblast disease inwarmenvironmental conditions.
+Trends inMicrobiology TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx 3 Host-inducedgenesilencing (HIGS): aprocess wherebygenesin pathogensaresilencedbyexpressing homologousdouble-strandedRNAs (dsRNA)orarti  cialmicroRNAs (amiRNAs)inthehostplant.
+Magnaportheoryzae : (synonymof Pyricularia oryzae Sacc.
+),ahaploid ascomycetefungusbestknownasthe causalagentofriceblastdisease.
+MicroRNAs(miRNAs): aclassof small, single-strandedRNAsthatare 18 25nucleotideslongandfunctionin thepost-transcriptionalregulationof geneexpression.
+Resistance( R )gene: genesencoding immunereceptorsinplantgenomesthat confer diseaseresistanceagainst pathogensbyperceivingpathogen effectors.
+ThemainclassofRproteins consistsofanucleotidebindingdomain andaleucine-richrepeatdomainand areoftenreferredtoas(NB-LRR) R-proteinsorNLRs.
+Susceptibility( S )gene: the S gene playskeyrolesin negatively regulating immuneresponses.
+Disruptingthese S genescanresultinimprovedresistance orreducedcompatibility.
+Dual impactofhumidity onthevirulenceofblastfungusandbasalresistanceinrice Numerousstudiesunderscoretheimportanceofhumidityinthespreadof diseases[ 46 , 47 ].
+Rice blastdiseaseismoresev ereunderhigh humidityconditions[ 48 , 49 ];yet,intriguingly,evidence suggestsaperiod of drough ttreatmentcanpotentiallyexacerbatethedisease[ 50 ].
+Although these studiesestablishedacorrelationbetweenhumidityandblastseverity,delving intothespe- ci  cmechanisms warrantsfurtherinvestigation.
+Ourrecentstudy revealedthathighambienthu- midityincreasesricesusceptibilityto M.
+oryzae ,promotingconidialgerminationandappressoria formation [ 51 ].
+Furthermore,highambienthumidityimpedes M.
+oryzae -triggeredethyleneaccu- mulationandtheactivationof theethylene signalingpathway,therebyleadingtomoresevere blastdevelopment.
+Remark ably, applying ethephon (ethyleneanalogues)enhancesresistance against M.
+oryzae underhighhumiditycond itions,offeringcrucialinsightsfor theformulationof effectiveblastmanagementstrategies.
+Currently,ourunderstandingoftheinteractionbetween M.
+oryzae ,rice,andhumidityislimited.
+Insightsfromstudiesinarabidopsis( Arabidopsisthaliana) suggestthathighair humidityinducesethylenebiosynthesisgeneswhilesuppressingthesalicylic acid(SA) pathwayandNPR1function,leadingtoplantdiseasebymaintainingintercellularaque- ousspace[ 52 54 ].
+Trends T r e n d s in i n Microbiology M i c r o b i o l o g y Figure1.
+Riceresistancemo dulatedby Magnapor theoryzae effectors.
+A widerangeofeffectorsin M.
+oryzae havebeenidenti  edtha tplay crucialrolesin regulat inghos t resistance.
+Amongthem,atleastfourcyt oplasmiceffectors ,Avr-Pita,Avr-Pii,AvrPiz-t,andAvrPi9,playdualrolesineliciting R gene-mediated resistance and suppressingbasalresistance via targetinghostproteins.
+Fivecytoplasmic effectors,MoHTR1 ,MoHTR2,MoHTR3,MoIug4,andMoSPAB1 ,exhibit transcri ptionfactor-li kepro perti es,al low ingthemtoreprogramtheexpressi onofri ce genesi nthenucl eus.
+Inadditi ontothenucl eus,certaincy toplasmiceffectors, suchas MoCDIP4,targetricemitochondriatoregulateblast resistanceorp erf ormotherfunctions.
+Furthermore,certainapoplasticeffectors,MoS lp1,MoAa91, MoChia1,MoCel12A,MoCel12B,MoCel10A,andMoAo1,possesstheabilitytodampenimmunityatthehost pathogen interface.
+BIC(biotrophic interfacialcomplex) i sahostmembrane- deri vedstructurei nvolved indeploying cytoplasmiceffectors.
+Abbreviations:ABA,ascorbicacid;D HA,dehydroascorbate; DR genes,defense- regulatorgenes;PAMP,pathogen-associatedmolecularpattern;ROS, reactiveoxygenspecies.
+TrendsinMicrobiology 4 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx Table1.
+Mode ofactionofeffectorsin Magnaportheoryzae Effectortype M.
+oryzae effectorTargetedriceproteinModeofactionRefs Cytoplasmic effector Avr-PitaPitaAvr-PitaisrecognizedbyRproteinPita,triggeringPita-mediatedresistance.
+[ 5 ] OsCOX11Avr-Pitasuppressesbasalresistancebyinterferingwiththecyto chromec oxidaseassemblyproteinOsCOX11,whichmediatesROSmetabolism.
+[ 9 ] Avr-PiiPiiAvr-PiiisrecognizedbyRproteinPii,activatingPii-mediatedresistance.
+[ 94 ] NADP-ME2Avr-PiimodulatesbasalresistancebytargetingNADP-malic enzyme NADP-MEtosuppress ROS generation.
+[ 6 , 11 ] OsExo70Avr-PiimodulatesbasalresistancebybindingtoExo70tomanipulaterice exocytosis.
+AvrPiz-tPiz-tAvrPiz-t isindirectlyrecognizedbyRproteinPiz-ttotriggerPiz-t-mediated resistance.
+[ 8 ] APIP4AvrPiz-t interactswithAPIP4,atrypsininhibitor,tomodulatebasal resistance bysuppressingitstrypsininhibitoractivity.
+[ 12 ] APIP5AvrPiz-t targetsAPIP5,whichfunctionsas bothatranscriptionfactorandan RNA-bindingprotein,tomodulatecell deathandimmunityinrice.
+[ 13 ] APIP6AvrPiz-t targetsRINGE3ubiquitinligaseAPIP6tosuppress basalresistance.
+[ 18 ] APIP10AvrPiz-t targetsE3ligaseAPIP10fordegradationtocompromisethebasal resistance whileenhancingPiz-t-mediatedresistance.
+[ 14 ] APIP12Thenucleo porinproteinAPIP12istargetedbyAvrPiz-ttoregulatethebasal resistance.
+[ 18 ] OsAKT1AvrPiz-t targetsthepotassiumchannel proteinOsAKT1tosuppress potassiumcurrentsandbasal resistance.
+[ 19 ] AvrPi9Pi9AvrPi9 issensedbyPi9totriggerPi9-mediatedresistance.
+[ 7 ] PICI1AvrPi9 targetsdeubiquitinasePICI1fordegradationtodampenthebasal resistance.
+[ 21 ] OsRGLG5AvrPi9suppressesbasalresistancebyaffectingthestabilityoftheE3ubiquitin ligaseOsRG LG5.
+[ 22 ] ANIP1-OsWRKY62AvrPi9 interactswithANIP1-OsWRKY62tocontrolbothbasal resistance and Pi9-mediatedresistance.
+[ 23 ] MoHTR1-3 ThenucleareffectorsMoHTR1-3modulatehostimmunityviasuppressionof defense-relatedgeneexpression.
+[ 24 , 25 ] MoIug4OsAHL1MoIug4downregulatestheexpressionof OsEIN2 ,a keyplayerintheethylene signaling pathway,andhostdefensegenesbyinterferingwithtranscription activatorOsAHL1.
+[ 26 ] MoCDIP4OsDjA9MoCDIP4targetsthe mitochondria-associatedOsDjA9tocompete with OsDRP1E, leadingtoshortenedmitochondriaand reducedresistanceinrice.
+[ 28 ] Apoplastic effector MoSlp1 SecretedLysMproteinSlp1competeswiththechitinelicitorbindingprotein OsCEBiPforbindingofchitinoligosaccharides topreventchitin-triggered immunity.
+[ 31 ] MoAa91 Theauxiliaryactivity family9proteinMoAa91competeswithOsCEBiPfor chitinbindingtosuppress chitin-inducedplantimmunity.
+[ 30 ] MoChia1OsTPR1ThericetetratricopeptiderepeatproteinOsTPR1 competitivelybinds chitinaseMoChia1,allowingtheaccumulationof freechitinandestablishing theimmunity.
+[ 32 ] MoCel12A/MoCel12B GlycosylhydrolasesfamilyGH12endoglucanase MoCel12A/12Bdamage plantcellstoreleasedamage-associatedmolecularpatterns andtriggerplant immuneresponses.
+[ 34 ] MoCel10AOsRMCThereceptor-likekinaseOsRMCinhibitsxylanaseMoCel10A,interferingwith itsdegradationof ricexylanandinvasion.
+[ 35 ] MoEbg1 Ebg1suppresses  -1,3-glucan-tr iggeredplantimmunity.
+[ 36 ] MoAo1OsAO3/ OsAO4 MoAo1inhibitstheactivity of riceascorbateoxidasesOsAO3andOsAO4, weakening plantimmunitybyregulatingtheapoplastredoxstatus.
+[ 37 ] Trends inMicrobiology TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx 5 Lightregulatessporereleasein M.
+oryzae anddiseaseresistanceinrice Li gh te xe rt sap rof oundin  uenceonthedevelopmentofplantdiseases.
+In general,supplemental UV-Blightenhancesdiseaseresistanceinplantsbystimulatingspecializedmetaboliteproduction [ 55 ].
+RedlightexposureboostsSAlevelsandactivat es SAsignaling,leadingtoROSproductioncru- cialfor plantdefense againstinfections[ 56 ].
+Furthermore,adecreasein thered-to-far-redlightratio Trends T r e n d s in i n Microbiology M i c r o b i o l o g y Figure2.
+Environmentalconditionsarekeyfactorsthatregulateblastresistance.
+Warmtemperatures,high humidity,andlowlightfavor theepidemicsof blastdiseaseinagricultural  elds.
+Theseenvironmental factorsmodulate blastresistanceinrice.
+Forinstance,temperature actsasacrucialregulatorofblastresistancemediatedby R genes, suchas Pi54 and Pi b ,as wellasj asmoni cacid( JA) -regulate dbasalres istanc ei nri ce.
+Highambienthumidi tyhindersthe accumulationofet hylenetriggeredby Magnaportheoryzae andtheacti vationoftheethylenesignal ingpathway,resulting inmoresevereblastdevelopment.
+Interestingly,thelight-har vestingcomplexIIproteinLHCB5contributestolight- regulatedblastresistance invariousricevarieties.
+Abbreviation:ROS,reactiveoxygenspecies.
+TrendsinMicrobiology 6 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx (R:FR)decreasesplantresistancetop athogensby negatively affectingSAandJAresponsivegene expression[ 57 ].
+In M.
+oryzae ,bluelightcurtailsasexualdevelop mentw hilepromotingtheproduction ofasexualspores/conidia,apro cesscontingentupontheblueligh treceptorMoMGWC-1,inalight/ darkcyclingenvironment[ 58 ].
+Additionally, ambientlighthasbeenobservedtosuppressdisease progressioninrice,thephenomenonintricatelytiedtothefunctionality ofMoMGWC-1in M.
+oryzae [ 59 ].
+Recentinsi ghtsfromastudycenteringonricehighlightLHCB5,thelight- harvestin gcomplexIIprotein ,asapivotalplayerinmodulatin gblastresistanceinvariousricevarie- ties[ 60 ].
+Speci  cally,variationsin SNPswithinthe LHCB5 promotergovern LHCB5 expression, which,inturn,correlateswiththephosphorylationofLHCB5.
+Thisphosphorylationenhances broad-spectrumresistancei nriceagainst M.
+oryzae byfacilitatingROSaccumulationinthechloro- plast.
+Notably,comparative analysisbetween LHCB5 transgenicandwild-typericelinesrevealed no signi  cantyielddifferences,hintingatpotentialf ordeve lopinghigh-yi eldingb last-resi stantvari eti es.
+Exploiting R anddefense-regulatorgenestocontrolblastdisease Identi  cationandmechanismanalysisof R genesagainstblast Thecultivationofblast-resistantricevarietiesstandsoutasthe mostcost-effectiveandenviron- mentallyfriendlymethodfordiseasecontrol.
+Identifyingnew R genesisthecrucialstepinbreed- ingdisease-resistantrice[ 1 ].
+Withadvancesinsequencing technology,deep sequencingand genome-wide associationstudies(GWASs)havebeenemployedtoidentifynew R genesagainst blastdisease.
+In arecentGWASconductedontheRiceDiversityPanel IIcorecollection,27loci associatedwith blastresistancewereidenti  ed[ 61 ].
+Throughfurtheranalysisoftheseloci,anew non-strain-speci  cpartial R gene, PiPR1 ( riceblastpartialresistancegene1 )wascloned.
+PiPR1 encodesthediseaseresistanceRPP13-likeprotein1[ 61 ].
+Moreover,anewbroad-spectrum blast R gene, Pijx ,encodinga typicalCC-NBS-LRR(coiled-coilnucleotide-bindingsiteleucine- richrepeat)protein,wasidenti  ed us ingGWASin 2023 [ 62 ].
+TheLRRdomainin Pijxinteracts withtheATPsynthaseb subunit(ATPb),triggering thedegradationoftheATP  -subunitand theOsRbohC-medi ated burstofROSin rice[ 62 ].
+Furtherex pandingonthecurrentinve ntory , morethan50rice R genes ( Figure3 )and14corresponding avirulence genes havebeenidenti  ed fromtherice M.
+oryzae pathosystem[ 63 ].
+Withmore R genescloned,morein-depthinvestigationsfacilitate the understandingofmecha- nism sunderlying R gene mediatedresistance,suchasthebroad-spectrum R gene Pigm .
+Pigm directlyinteractswiththeRRM-classtranscriptionfactorPIBP1,culminatingintheirnuclear accumulationandsubsequentactivationofdefensegenessuchas OsWAK14 and OsPAL1 [ 64 ].
+Additionally, PigmcollaborateswiththericedeubiquitinasePICI1toprotectagainstdegradation byAvr Pi9.
+PICI1,in turn,stabilizesOsMETS ,a methionine synthase,thusincreasingethylene productionviamethioninebiosynthesisandultimately enhancingblastresistance [ 21 ].
+Theinves- tigationofinteractingproteinshas unveiledthattheRproteinPitrecruitstheguaninenucleotide exchangefactorOsSPK1tothecellmembrane,directlyactivatingthedownstreammembrane- loca lizedsmallGproteinOsRac1[ 65 ].
+Furthermore,bothOsSPK1andOsRac1-RAI1(RAC IMMUNITY1)playcriticalrolesinRprotei nsPID3(PIRI CULARI AORYZAERESISTANCEIN DIGU3)andPi9-inducedblastresistance,suggestingacommondefensesignalingpathway amongRproteinsinresponseto M.
+oryzae [ 66 , 67 ].
+Toshed lightonthemechanism behind R-mediatedimmunity,researchhasuncoveredthatSH3P2,aproteincontaininganSH3do- maininteractingwithbothPibandAvr-Pib,sup pressesPib-mediatedimmunitytriggeredby thecognateeffectorAvr-Pibinrice[ 68 ].
+Recently,astudydelineate d theroleoftheE3ubiquitin ligase OsPIE3asa negative regulator oftheRpr oteinPID2(B-lectinreceptor-likekinase)by interactingandd estab il izingPID2[ 69 ].
+Thesestudiesindicatethatidentifyingp roteinsthatin- teractwith Rproteinsprovides a feasible av enueforcompreh ensi velyu nderstandi ngthe mechanismsofRprotein mediatedblastresistance.
+Trends inMicrobiology TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx 7 Defense-regulatorgenesprovideblastresistancethroughvariousmechanisms Unlike R genes,defense-regulatorgenesoftenconferpartialresistanceagainstabroadspectrum ofpathogenraces [ 1 ].
+Chenandcolleaguesextensivelyrevieweddefense-regulatorgenesiden- ti  edbefore2019[ 1 ].
+In thepast5 years,except forthedefense-regulatorgenesinvolvedinef- fector-andenvironment-regulatedresistance,numerousother defense-regulator geneshave beenfunctionallycha ra cteri zed,includinggenesencod ing OsCNGC9(a cyclic nucleotide- gatedchannelprotein),OsANN1(acalcium-bindingprotein),OsXLG1-3(extra-largeGprotein), OsUBC45(aubiquitin-conju gatingenzyme),U-boxE3ligaseOsPUB13,andO sSYP121(a syntaxin ofPlants121)[ 70 74 ].
+Thisreviewfocusesspeci  callyon thetypesofdefense- regulatorgenesextensivelystudiedduringthisperiod.
+MicroRNAs (miRNAs)contributesigni  cantlytoplantresistanceagainstpathogens.
+Recentre- searchhighlightsseveralmiRNAsplaying  ne-tuningrolesinblastresistancebytargetingdifferent genes.
+For instance,Osa-miR398benhancesH 2 O 2 productionandblastresistancethrough targetingmultiplesuperoxidedismutasegenes[ 75 ].
+Conversely,Osa-miR167dplaysanegative roleinriceimmunityagainst M.
+oryzae bydownregulating auxinresponsive factorOsARF12 [ 76 ].
+Bycont rast ,miR160aposit ivel yregulatesbroad-spectrumres istancebysuppressingthe expressionof OsARF8 ,which inhibitstheexpressionof OsWRKY45 ,a positiveregulatorofrice immunity[ 77 ].
+However,Osa-miR535negativelyregu lates blastresistancebytargeting SQUAMOSApromo ter bi ndingprotein-li ke4[ 78 ].
+Additionall y,mi R1871plays anegativerole inresistancebysu ppressingtheexpression of MFAP1 thatencodesa micro  brillar-associated proteincrucialfordiseaseresistance [ 79 ].
+Notably,theMITE (miniatureinverted-repeat transpos- ableelements)-derivedmiRNAmiR812wconfersblastresistanceinricebymediatingDNAmeth- ylationoftargetgenes,includingitsownlocus[ 80 ].
+Osa-miR168targets OsAGO1 ( Argonaute1 ) toregulatemultiplemiRNAs,impactingvarioustraitssuchas paniclenumber,  oweringtime,and immunity[ 81 ].
+BeyondmiRNAs,longsmall RNAssuchaslsiR76113andcircularRNAsalsocon- tributetoblastresistanceinrice[ 82 , 83 ].
+Trends T r e n d s in i n Microbiology M i c r o b i o l o g y Figure 3.
+Identi  ed R genesagainstblastdiseaseon the ricechromosome.
+Currently,morethan50rice R genes, includingdifferentallelesof R genes,havebeenidenti  edfromtherice Magnaportheoryzae pathosystem.
+Finelinesindicate thelocuscontaininga resistance gene,whereastheparenthesescontainsagenethatsharesthesameaminoacidwiththe  rstshown.
+Thecontentinside thesquarebracketsrepresentsallelicgenes.
+TrendsinMicrobiology 8 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx Transcription factorsexertavitalroleinregulatingplantdefensebyorchestratingtheexpression ofdownstream genes.
+Forexample,OsWRKY45 playsa keyrolein transcriptionalactivationin riceimmunity[ 84 ].
+Recently,itwasfoundthatduringchitinsignaling,the U-boxtypeubiquitinli- gasePUB44mediatesthedegradationoftheNLRimmunereceptorPBI1,leadingtotheactiva- tion ofOsWRKY45[ 85 ].
+OsWRKY10,aWRKYtranscriptionf actor,activatesmultiplegenes involvedinditerpenoidphytoalexinbiosynthesis,enhancingblastresistanceinrice[ 86 ].
+Another WRKYtranscriptionfactor,OsWRKY31, isphosphorylatedbytheOsMKK10-2 OsMPKmodule toactivateblastresistance [ 87 ].
+Nevertheless,OsWRKY31undergoesdegradation bytheRING-  ngerE3ubiquitinligasesOsREIW1through the26Sproteasome.
+Inaddition,OsWRKY53,sta- bilizedbytheGRASproteinOsDLA,activates OsPBZ1 ex pre ssion,con tributingtoblas tresis- tance.
+Othertranscriptionfactors,suchasMYB,TGA,andNAC, alsoholdcrucialrolesin blast resistance.
+Forinstance,OsMYB30activates4-coumarate:coenzymeAligasegenes( Os4CL3 and Os4CL5 ),thickeningsclerenchymacellstoinhibit M.
+oryzae penetration[ 88 ].
+Phosphoryla- tionofOsTGA5bycaseinkinaseII compromisesitsability tosuppressdefense-relatedgenetran- scription [ 89 ].
+TheNACtranscription factorOsNTL6coordinate swithOsHLP1,maintainingthe endoplasmicreticulumtubulenetwork,tomo dulatethetrade- offbetweendefenseand endo- plasmicreticulumhomeostasisduring M.
+oryzae infection[ 90 ].
+Overall, thesetranscriptionfactors intricatelyregulateblastresistancebymodulatinggeneexpression.
+Blast- resistantriceplantscreat edbypr oteinengineering,genomeediti ng,and host-inducedgenesilencing(HIGS) Marker-assistedgenepyramiding,involvingidenti  ed R anddef ense-regulatorgenes,has long beenrecognizedasaneffectiveapproachfordeveloping blast-resistantricevarieties [ 91 ].
+Recently,promisingapproaches such asproteinengineering, genomeediting ,and HIGS haveemergedaspromisingstrategiestogene rateblast-resistantriceplantswithout compromising yield[ 92 ]( Figure4 ).
+Theseapproachesincludeeditingallelesof R genesand defense-regulatorgenesthrough theCRISPR(c lusteredregularlyinterspacedshortpalin- dromicrepeats)/Cas9(CRISPR-associatedpro tein9)system,preciseintegrationoflarge DNAsequencesintothe R geneusingPrimeRootedito rs,andusingHIGStotargetpathoge- nicit ygenesfrom M.
+oryzae .
+EngineeredRproteinswith expandedrecognitionpro  les Expandingupontheiden ti  cationandcomprehensi onofthemechanismunderlyingRprotein- mediatedresistance,recentstudieshaveexploredinnovativeapproaches,notablyinproteinen- gineering.
+Inrice,threeCC- typeNLRpairs havebeenidenti  ed, namelyPik(Pik-1/Pik-2), Pia (RGA5/RGA4),and Pii(Pii-2/Pii-1)[ 63 , 93 95 ].
+Pik-1/RGA 5possessesanintegratedheavy metal-associated( HMA )domain,enablingeffectordetection,whereasPik-2/RGA4triggersthe immuneresponsepost-effectorrecognition[ 96 ].
+Theevolutionarytrajectory ofthesePikalleles seemst oprogresslinearlyfromnarrowtob road recognitionspectrum(Piks/Pikp  Pik*  Pikm/Pikh),evolvingintandemwithAVR-Pikvariants[ 96 , 97 ].
+Pioneeringresearchhasachieved successfulengineering,notablyintroducingasingleAsn261Lys/Lys262Glu(Pikp NK-KE )mutation inPikp.
+This alterationenhanceditsaf  nitytowardvariousAVR-Pik variants,broadeningits rec- ognitionpro  le[ 95 , 96 , 98 ].
+Additionally,theengineeredPikp-1 OsHIPP19 chimera,incorporatingthe HMAdomainfromOsHIPP19,extendedrecognition toAVR-PikC/F[ 99 ].
+Similarly, the designed riceNLRreceptor,RGA 5-HMA2,withan in tegrated HMAdomain,recognizesthe noncorrespondingMAXeff ector[ 100 , 101 ],Avr-Pi b,conferringRGA4-dependent resistanceto M.
+oryzae isolatesexpressingAvr-Pib,anoriginaltr iggerforPib-mediatedblastresistance [ 102 ].
+Recently,a mutantofRGA5namedRGA5 HMA5 thatprovidescompleteresistancetothe M.
+oryzae strainsexpressing thenoncorrespondingeffectorAVR-PikDwasobtained[ 103 ].
+Fur- thermore,twopolymorphi sms,E229QandA261V,differentiatingPiksandPikm,quan titatively Trends inMicrobiology TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx 9 affecttherespons etoAVR-Pi k,providingthepossiblestrategyfor engineeringPikstoexpand theirresistant spectrum[ 10 ].
+Leveragingthesestudies,therapidadvancementof genomeediting techniques offersanenhancedopportunitytomodifythese R genes,signi  cantlycontributingto thedevelopmentofblast-resistantricevarieties.
+Editing susceptibility ( S )genesand lesionmimic ( LMM )genesbytheCRISPR/Cas9system In theinteractionbetweenplantsandpathogens, S genes inplantsdenotethosepredisposing plantstosusceptibility,often actingasnegati veregulatorsofimmunity .
+Precision editingof these S genes hol d s sub stantialp romiseinforti fyi ngresistanceandreducingcompatibility, therebyexpandingresourcesforbroad-spectrumdise as eresistance.
+Notablesu ccessstories aboundinwhichbroad-spectrumblast-resistantricehas bee nengi neeredbyediting S genes, su chas Pi21 (asusceptiblealleleofthenon-race-speci  c Rgenepi21 containsanHMAdo- main), Bsr- d1 ( C2H2-type transcriptionfactor), OsMESL ( methylesterase-like ), Pi21 / Bsr-d1 / Trends T r e n d s in i n Microbiology M i c r o b i o l o g y Figure4.
+Engineering Rprotein,genomeediting,andhost-inducedgenesilencing(HIGS)canbeemployedfor thedevelopmentofblast-resistantriceplants.
+(A )Engineeri ngRproteintoexpandi tsrecognitionpro  les,suchas introducingasingleAsn261Lys/Lys262Glu(PikpNK-KE)mutationinPikptoenhanceitsaf  ni tytoAVR-Pi kvari ants,and developingriceNLRreceptors,Pikh-HMAand RGA5-HMA2,withanintegratedHMAdomain.
+(B)Editing susceptibility ( S )g enesandthe lesionmimic ( LMM )gene RBL1 bythe CRISPR/Cas9system toimproveblastresistance.
+(C)PreciselyinsertinglargeDNAfragmentscontaining Pi gm usin gPrimeRoot.
+(D)UsingHIGStotarget pathogenicity genes,including MoAPT2 , LHS1 , MoMET2 , MoCYS2 ,and MoFim1 , t oeffectivelycontrolblastdisease.
+Abbreviation: HMA,heavymetal-associated.
+TrendsinMicrobiology 10 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx ERF922 ( APETELA2/ethyleneresponsefactor typetranscriptio nfactor ), OsS5H ( salicylicacid 5-hydroxylase ), RNG1 ( zinc  nger proteingene)/ RNG3 ( de hydrogena se ),and OsHRC (encodingahistidine-richcalcium-bindingprotein),usingtheCRISPR/Cas9syste m[ 104 110 ].
+AnotherremarkableinstanceofleveragingtheCRISPR/Cas9systemtoimproveblastresistance involves editing lesionmimic ( LMM )genes tointroducenewarti  cialvariations[ 111 ].
+Inrice, a29 basepairdeletionin RESISTANCETOBLAST1 ( RBL1 ),responsi ble forencodingacytidinedi- phosphatediacylglycerol(CDP-DAG)synthase,conferredbroad-spectrumresistanceagainst bothblas tandbacterialblightdise ases.
+However,itresultedinlesionmimicand yieldloss.
+To avoid thesede  ciencies,amultiplexinggenomeeditin gstrategy targetedmultiplesites in RBL1 .
+Throughscreeningmutants withoutlesions,amodi  ed RBL1 versionwitha12 base pairdeletionwasobtained,endowingbroad-spectrumresistancewithoutcompromisingyield.
+Thiscasenotonlyunveilstheeffectiveuseofgenomeeditingfor LMM genes butalsoshowcases howarti  cialvariationscanexpandthelimitedpoolofbroad-spectrumresistancegeneswithin naturalcrop populations.
+PreciseinsertionoflargeDNAfragmentscontaining R genesusingPrimeRoot Withadvancesingenomeeditingtechnology ,arecentinnovationknownasPrimeRoothas emerged,offeringthecapability forpreciseandintentionalinsertionoflargeDNAsegmentsinto plantgenomes[ 112 ].
+An excellent studyexempli  edthisbyintegrating agenecassette,housing thebroad-spectrumresistance gene PigmR driven byan OsAct1 (rice Actin1 )promoter,intoa predictedgenomicsiteofKitaake rice[ 112 ].
+Theresultanteditedplantsexhibited heightenedre- sistance againstblastdisease.
+This  ndinghighlightsthe potentialofPrimeRootasa promising techniqueadeptataccuratelyinsertinglargeDN Afragmentsintoplants ,therebyenhancing blastresistance.
+Drawingonexistingknowledge,theapplicat ionoftheCRISPR/Cas9system andPrimeRoot isexpectedtoenablethemodi  cationo feffector-andenvironment-regulated R and defense-regulatorg enes, therebyenhancingb lastresistancein rice.
+Furthermore,through in-depth research onthemolecular mechanisms andsignalingpathwaysthatregulateblastre- sistancebyeffectorsandenvironmental factor s,key pathogenandhostregulatoryelementsor signalingcomponentswil lbeidenti  ed.
+Byusingadvancedgenomeeditingte chnology,such asPrimerEditing, theseregulatory elementsorsignalingcomponentscanbeprecisely targetedanddesigned,facilitatingthescreen ingofgermplasmthatisbothenvironmentally adaptable anddisease-resistant,aswellasthe engineeringclimate- resilientrice varieties.
+HIGStargeting pathogenicity genestoeffectivelycontrolblastdisease TheuseofHIGShasemergedasapivotaltool fordissecting thefunctionof pathogenicity genes duringhost microbeinteractionsandcontrollingfungaldiseasesin variouscrops.
+Recently,a well-establishedHIGSsystemfor M.
+oryzae involvedatrans genicplantexpres sing35S::dou- ble-stranded(ds)RN Ai,thatfacilitated theproduction ofsiRNAstargetingpathogenicitygen es of M.
+oryzae inrice.
+This approach notably resultedinadecreased virulence oftheblastfungus byspeci  callysilencinggenessuchas MoAPT2 and LHS1 ,concurrentlyenhancingfungal resis- tance.
+Importantly,thisresistancewasaccompaniedbytheaccumulationofdefensivegranules containingH 2 O 2 andtheinductionof pathogenesis-related(PR)genesinrice[ 113 ].
+Simil arly, HIGStargetinggenesencod inghomoserineO-acety ltransferases, MoMET2 and MoCYS2 ,or MoFim1 (actincross-lin kingprot ein  mbrin),exhibitedeffectivecontrolofblastd isease [ 114 , 115 ].
+Theseexamples serveas compellingdemonstrations of theeffectiveness andef  - ciencyofHIGS,af  rmingitsstatusasauseful biologicaltoolformanagingblastdiseaseanden- suringsuccessfulriceproduction.
+Trends inMicrobiology TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx 11 Concludingremarks Inconclusion,thisreviewoffers anupdatedunderstandingofhow M.
+oryzae effectors andenviron- mentalfactorsmo dulateblastresistance.
+Wealsosu mmarize theex ploitationof R genesand defense-regulatorgenes,as wellas theuse ofthesegeneticresources inresistanceimprovement throughbiotechnologicalapproaches.
+Currently,althoughsigni  cant advanceshavebeenmadein characterizingeffectorsin M.
+oryzae ,continuedidenti  cationofneweffectors,analysisofthestruc- tureofeffectors,andtheirregulationof hostimmunityareimperative.
+Furthermore,tocomprehen- sively depicttheeffectsofenvironmentalfactors onblastresistance,itisnecessarytounveilthe mechanisms bywhichvariousenvir onmen talfactors,includingnotonlytemperature,humidity, andlightbutalsonitrogenfertilizerandambientmicroorganisms,impactthe pathogenicityof M.
+oryzae andresistanceinrice.
+Thisexplorationaimsto uncovertheintricate interactionbetween diseaseresistanceand abioticstressesand toidentifykeyregulatorsand/ordefense pathwaysre- sponsivetoenvironmentalfactors,therebyofferingpromisingtargetsforgeneticengineeringtoim- proveadaptationofriceinthechangingclimate.
+Inaddition,beyond thegenes involved ineffector- and environment-regulatedresistance,thereisaneedtoidentifynew R genesand defenseregu- lators,thatwillpavethe wayforus ingthesegeneticresourcesalongwithbiotechnologicalap- proaches,such asgenome editingus ingPrimereditingtechnology,todeve lopblast-resistant rice plants.
+Sofar,despitegreatprogressmadeinenhancingblastresistance,numerousquestions remainunansweredandrequirefurtherinvestigation(see Outstandingquestions ).
+Acknowledgments Thisresearchwas supportedbygrants fromtheNationalKeyResearchandDevelopmentProgram(2022YFD1401500),the NationalNaturalScienceFoundationofChina(32171944andU19A2033), theZhejiangScienceandTechnology MajorPro- gramonAgricultural NewVarietyBreeding(2021C02064),andtheInnovationProgramof ChineseAcademyof Agricultural Sciences(Y2023QC22andCAAS-CSCB-202301).
+Authorcontributions Y.
+K.
+,Z.
+T.
+, andW.
+W.
+outlinedthereview.
+Y.
+K.
+,H.
+S.
+,andJ.
+Q.
+wrotethemanuscriptandpreparedthe  gures.
+Declaration ofinterests Theauthorsdeclarenocompetinginterests.
+References 1.
+Li,W.
+etal.
+(2019)Recentadvancesinbroad-spectrumresis- tancetothericeblastdisease.
+Cu rr.
+Opin.
+Pl antBiol.
+50, 114 120 2.
+Dean,R.
+etal.
+(2012)Thetop10fungalpathogensinmolecular plantpathology.
+Mol.
+PlantPathol.
+13,414 430 3.
+Stuer,N.
+etal.
+(2023)Seeking theinterspeciescrosswalkfor  l- amentousmicrobeeffectors.
+TrendsPlant Sci.
+28,1045 1059 4.
+Fernandez,J.
+(2023)ThePhantom Menace:latest  ndingson effectorbiologyinthericeblastfungus.
+aBIOTECH 4,140 154 5.
+Orbach,M.
+J.
+etal.
+(2000 )Atelomericavirulencegenedeter- mines ef  cacyfo rthericeblastresistanceg ene Pi-ta .
+Plant Cell 12,2019 2032 6.
+Fujisaki, K.
+etal.
+(2015)RiceExo70interactswithafungaleffec- tor,AVR-Pii,andis requiredforAVR-Pii-triggeredimmunity.
+PlantJ.
+83,875 887 7.
+Wu,J.
+etal.
+(2015)Comparativegenomicsidenti  esth e Magnaportheoryzae avirulenceeffector AvrPi9 thattriggers Pi9 -mediatedblastresistancei nrice.
+NewPhytol.
+206, 1463 1675 8.
+Li,W .
+etal.
+(2009) The Magnap o rtheo ryzae avirulencege ne Avr Piz-t encodesapredictedsecretedproteinthattriggers theimmun ity inricemediatedbytheblastresistan cegen e Piz-t .
+Mol.
+Plant-MicrobeInteract.
+22,411 420 9.
+Han,J.
+etal.
+(2021)ThefungaleffectorAvr-Pitasuppressesin- nateimmunitybyincreasingCOXactivityinricemitochondria .
+Rice(N.
+Y.
+) 14,12 10.
+Sugihara,Y.
+et al.
+(2023)Dis entanglingthecomplexgene interactionnetworksbetweenriceandtheblastfungus identi  esanewpathogeneffector.
+PLoSBiol.
+21, e3001945 11.
+Singh,R.
+etal.
+(2016) Magnaportheoryzae effectorAVR-Pii helpstoesta blishcompatibilitybyinhibitionofthericeNADP- malicenzymeresulting in disruption ofoxidativebur stand hostinnateimmunity.
+Mol.
+Cells 39,426 438 12.
+Zhang,C.
+etal.
+(2020)Afungaleffectorandarice NLRprotein haveantagonisticeffectsonaBo wman-Birktrypsininhibitor.
+Plant Biotechnol.
+J.
+18,2354 2363 13.
+Zhang,F.
+etal.
+(2022)APIP5functionsasatranscription factor andanRNA-bindingprotein tomodulatecelldeathandimmu- nityinrice.
+Nucleic AcidsRes.
+50,5064 5079 14.
+Park,C.
+H.
+etal.
+(2016)TheE3ligaseAPIP10connectstheef- fector AvrPiz-ttotheNLRreceptorPiz-tinrice.
+PLoSPathog.
+12,e1005529 15.
+You,X.
+etal.
+(2023)ThericeperoxisomalreceptorPEX5nega- ti velyregulatesresistancetoriceblastfungus Magnaporthe oryzae .
+Cell Rep.
+42,113315 16.
+Wang,J.
+etal.
+(2021)TwoVOZtranscriptionfactorslinkanE3 ligaseandanNLRimmunereceptortomodulateimmunityin rice.
+Mol.
+Plant 14,253 266 17.
+Wang,R.
+etal.
+(2016)Immunitytoriceblastdiseasebysup- pression ofeffector-triggered necrosis.
+Curr.
+Biol.
+26, 2399 2411 TrendsinMicrobiology 12 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx Outstandingquestions M.
+oryzae usesmu ltipletypesof effectorstomodul at ericeimmuni tyi n variousways.
+Due totheredundant roleof effectorsandchallengesin expe rimentaltechnology in planta for accuratelymeasuringsmall changesin mutant phenotypeofeffectorlimitation, thepreciserolesof M.
+oryzae effectors duringinfectionremainunclear.
+How are R anddefense-regulatorgene- mediatedresistanceregulatedbythe numerouseffectorsduringinfection? H ow arethenumerouseffectorsor- chestratedinordertosuppress host immunity? Therearemanystudiesthatrevealthe regulationmechanismsof M.
+oryzae e ffe ctorsinric e.
+H ow ca nblast resistancein ricebeimprovedonthe basisoftheseregulationmechanisms? Recentstudieshavefocusedonthe directeffectsofenvironmentalfactors on M.
+oryzae andrice.
+Howdoother environmentalfactors,suchasnitrogen fertilizerandambientmicroorganisms, regulateblastresistanceinrice? Whatarethecl imate-respo nsivemo- lecula rpathwaysthatma kep la nts moresusceptibletotheblastfungus underunfavorableclimateconditi ons? Howcanwedevelopclima te-resilient cropstoenhanceadaptationindy- namicenvironments? Theadventandadvancementof genomeeditingtechnologieshave ushered inrevolutionarytransformations inobtainingdisease-resistantcrops.
+Howcangenomeediting,suchasthe PrimeEditor system,bebetterusedto createb last-resistantricebyusingidenti-  ed R anddefense-regulatorgenes? Howcanwerealizebroad-spectrum anddurableblastresistancebyediting afew R anddefense-regulatorgenes ? 18.
+Tang,M.
+etal.
+(2017)TheNup98homologAPIP12targetedby theeffectorAvrPiz-tisinvolvedinricebasalresistanceagainst Magnaportheoryzae .
+Rice(N.
+Y.
+) 10,5 19.
+Shi,X.
+etal.
+(2018)Thefungalpathogen Magnaportheoryzae suppr essesinnateimmunitybymod ulatingahost p otassium channel.
+PLoSPathog.
+14,e1006878 20.
+Gao,M.
+etal.
+(2021)Ca(2+)sensor-mediatedROSscavenging suppressesrice immunityandisexploitedbyafungaleffector.
+Cell 184,5391 5404 21.
+Zhai,K.
+etal.
+(2022)NLR sguardmetabolismtocoordinate pattern-andeffector-triggeredimmunity.
+Nature 601,245 251 22.
+Liu,Z.
+etal.
+(2023)TheE3ubiquitinligase OsRGLG5targeted bythe Magnaportheoryzae effectorAvrPi9confersbasalresis- tanceagainstriceblast.
+PlantCommun.
+4,100626 23.
+Shi,X.
+etal.
+(2023)TheANIP1-OsWRKY62module regulates bothbasaldefenseandPi9-mediatedimmuni ty agains t Magnaportheoryzae inrice.
+Mol.
+Plant 16,739 755 24.
+Kim,S.
+etal.
+(2020)Twonucleareffectorsofthericeblastfun- gus modulatehost immunityviatranscriptionalreprogramming.
+Nat.
+Commun.
+11,5845 25.
+Lee,S.
+etal.
+(2023)ThenucleareffectorMoHTR3of Magnaporthe oryzae modulateshostdefencesignallinginthebiotrophicstage ofriceinfection.
+Mol.
+PlantPathol.
+24,602 615 26.
+Liu,X.
+etal.
+(2022)MoIug4isanovelsecreted effectorpromot- ingriceblastbycounteracting hostOsAHL1-regulatedethylene gene transcription.
+NewPhytol.
+235,1163 1178 27.
+Zhu,Z.
+etal.
+(2023) Magnaporthe oryzae effectorMoSPAB1di- rectlyactivat esrice Bsr-d1 expressiontofacilitatepathogene- sis.
+Nat.
+Commun.
+14,8399 28.
+Xu,G.
+etal.
+(2020)Afungaleffectortargetsaheatshock- dynaminprotein complextomodulatemitochondrialdynamics andreduceplantimmunity.
+Sci.
+Adv.
+6,eabb7719 29.
+Shinya, T .
+etal.
+(2015)Chitin-mediatedplant-fungalinter ac- tions:catching,hidingandhandshaking.
+Curr.
+Opin.
+Plant Biol.
+26,64 71 30.
+Li,Y.
+etal.
+(2020) Magnaportheoryzae auxiliaryactivityprotein MoAa91functionsaschitin-bindingprotein toinduceappresso- rium formationonarti  cialinductivesurfacesandsuppress plantimmunity.
+mBio 11,e03304-19 31.
+Mentlak,T.
+A.
+etal.
+(2012)Effector-mediatedsuppressionof chitin-triggered immunityby Magnaportheoryzae isnecessary forriceblastdisease.
+PlantCell 24,322 335 32.
+Yang,C.
+etal.
+(2019)Bindingofthe Magnaportheoryzae chitinaseMoChia1byaricetetratricopeptiderepeatproteinal- lowsfreechitintotriggerimmuneresponses.
+PlantC ell 31, 172 188 33.
+Han,Y.
+etal.
+(2019)A Magnaporthe chitinaseinte ractswitha rice jacalin-relatedlectintopromotehostcolonization.
+Plant Physiol.
+179,1416 1430 34.
+Yang,C.
+etal.
+(2021)Poaceae-speci  ccellwall-derivedoligo- saccharides activateplantimmunityviaOsCERK1during Magnaportheoryzae infectioninrice.
+Nat.
+Commun.
+12,2178 35.
+Takeda,T.
+etal.
+(2022)RiceapoplasticCBM1-interactingpro- teincountersblastpathogeninvasionbybindingconserved carbohydratebindingmodule1motif offungalprotei ns.
+PLoS Pathog.
+18,e1010792 36.
+Liu,H.
+etal.
+(2023)Plantimmunitysuppressionbyanexo-beta- 1,3-glucanaseandanelongationfactor1alphaoftherice blast fungus.
+Nat.
+Commun.
+14,5491 37.
+Hu,J.
+etal.
+(2022)Co-evolvedplantandblastfungusascorbate oxidasesorchestratetheredoxstateofhostapoplasttomodu- latericeimmunity.
+Mol.
+Plant 15,1347 1366 38.
+Madhusudhan,P.
+etal.
+(2019)Effect oftemperatureon Pi54 - mediatedleafblastresistanceinrice.
+Worl dJ.
+Microbiol.
+Biotechnol.
+35,148 39.
+Jianhui,Mao etal.
+(1997)Theeffectofcontinuouslowtemper- atureonriceblast[inChinese].
+XiNanNongYeDaXueXue Bao 19,228 230 40.
+Luo,Y.
+etal.
+(1998)Theeffectsofglobaltemperaturechange onriceleaf blast epidemics:asimulationstudyinthreeagro- ecologicalzones.
+Agric.
+Ecosyst.
+Environ.
+68,187 196 41.
+Rajput,Laxman Singh etal.
+(2017)Effectoftemperatureonrice blastinfectionprocess withemphasisonappressoriaformation by Magnaporthe oryza e .
+Int.
+J.
+Curr.
+Microbiol.
+Appl.
+Sci.
+6, 1931 1939 42.
+Li,G.
+etal.
+(2011)MoS  1isimportantforvirulenceand heattol- erancein Magnaportheoryzae .
+PLoSOne 6,e19951 43.
+Yan,H.
+etal.
+(2022)A cytosolicthiouridylasegene MoCTU2 in Magnaportheoryzae isimportantforvegetativehyphal growth, conidiation,and responsestorapamycinandhightemperature.
+Physiol.
+Mol.
+PlantPathol.
+121,101886 44.
+Wang, Z.
+X.
+etal.
+( 2001)Expressionofthe Pib rice-blast- resistancegenefamilyisup-regulated byenvironmentalcondi- tionsf avouringinfectionandbychemicalsignalsthattrigger secondaryplantdefences.
+Plant Mol.
+Biol.
+47,653 661 45.
+Qiu,J.
+etal.
+(2022)Warm temperature compromisesJA- regulatedbasalresistancetoenhance Magnaportheoryzae in- fectioninrice.
+Mol.
+Plant 15,723 739 46.
+Roussin-L veill e,C.
+etal.
+(2022)Evolutionarily conserved bac- terialeffectors hijackabscisicacidsignalingtoinduceanaque- ousenvironmentintheapoplast.
+CellHostMicrobe 30, 489 501.
+e4 47.
+Vel squez,A.
+C.
+et al.
+(2018)Plant-pa thogenwarfareunder changingclimateconditions.
+Curr.
+Biol.
+28,R619 r634 48.
+Zhu,Y.
+Y.
+etal.
+(2005)Panicleblastandcanopymoistureinrice cultivarmixtures.
+Phytopathology 95,433 438 49.
+Li,Y.
+etal.
+(2014)Effectsofrelativehumidityoninfection, colo- nizationandconidiation ofonperennialryegrass.
+Plant Pathol.
+63,590 597 50.
+Bidzinski,P.
+etal.
+(2016)Transcriptionalbasisof drought- inducedsusceptibilitytothericeblastfungus Magnaporthe oryzae .
+Front.
+Plant Sci.
+7,1558 51.
+Qiu,J.
+etal.
+(2022)Dualimpactofambienthumidityonthevir- ulenceof Magnaportheoryzae andbasalresistance inrice.
+Plant CellEnviron.
+45,3399 3411 52.
+Xin,X.
+F.
+etal.
+(2016)Bacteriaestablishanaqueouslivingspace inplantscrucialforvirulence.
+Nature 539,524 529 53.
+Yao,L.
+etal.
+(202 3)Highairhumidityd amp enssalicylicacid pathwayandNPR1functiontopromote plantdisease.
+EMBO J.
+42,e113499 54.
+Jiang,Z.
+etal.
+(2024)Ethylenesignalingmodulatesairhumidity responsesinplants.
+PlantJ.
+117,653 668 55.
+Meyer,P.
+etal.
+(2021)UV-Blightandits applicationpotentialto reduce diseaseandpestincidenceincrops.
+Hortic.
+Res.
+8,194 56.
+Gall , .
+etal.
+(2021)Pestanddiseasemanagementbyred light.
+Plant CellEnviron.
+44,3197 3210 57.
+Courbier,S.
+etal.
+(2021)Mechanismsoffar-redlight-mediated dampeningofdefenseagainst Botrytiscinerea intomato leaves.
+Plant Physiol.
+187,1250 1266 58.
+Lee,K.
+etal.
+(2006)Lightregulationofasexualdevelopmentin therice blastfungus, Magnaportheoryzae .
+FungalGenet.
+Biol.
+43,694 706 59.
+Kim,S.
+etal.
+(2011)Geneticandmolecularcharacterization ofa bluelightphotoreceptorMGWC-1in Magnaporthoryzae .
+Fungal Genet.
+Biol.
+48,400 407 60.
+Liu, M.
+etal.
+(2019)Phosphorylation-guarded light-harvesting complexIIcontributestobroad-spectrumblastresistancein rice.
+Proc.
+Natl.
+Acad.
+Sci.
+U.
+S.
+A.
+116,17572 17577 61.
+Liu,M.
+H.
+etal.
+(2020)Genome-wideassociationstudyidenti  es anNLRgenethatconfersp artialresistanceto Magnaporthe oryzae inrice.
+PlantBiotechnol.
+J.
+18,1376 1383 62.
+Xiao,N.
+etal.
+(2023) Pijx confersbroad-spectrumseedlingand pani cleblastresistancebypr omotingthedegradationofATP betasubunitandOsRbohC-mediatedROSburstinrice.
+Mol.
+Plant 16,1832 1846 63.
+Devanna,B.
+N.
+et al.
+(2022)Understandingthedynamicsof blastresistanceinrice- Ma gn aportheoryzae interactions.
+J.
+Fungi(Basel) 8,584 64.
+Zhai,K.
+etal.
+(2019)RRMtranscriptionfactorsinteractwith NLRs andregulatebroad-spectrumblastresistanceinrice.
+Mol.
+Cell 74,996 1009.
+e7 65.
+Wang, Q.
+etal.
+(2018)ResistanceproteinPitinteractswiththe GEF OsSPK1toactivateOsRac1andtrigg erriceimmunity.
+Proc.
+Natl.
+Acad.
+Sci.
+U.
+S.
+A.
+115,E11551 e11560 66.
+Zhou ,Z.
+etal.
+(2019)Importance ofOsRac1andRAI1insignalling ofnucleotide-bindingsiteleucine-richrepeatprotein-mediatedre- sistancetoriceblastdisease.
+NewPhytol.
+223, 828 838 67.
+Yu,M.
+etal.
+(2021)The OsSPK1-OsRac1-RAI1defensesignal- ingpathway issharedbytwodistantlyrelatedNLRproteinsin riceblast resistance.
+Plant Physiol.
+187,2852 2864 Trends inMicrobiology TrendsinMicrobiology,Month2024,Vol.
+xx,No.
+xx 13 68.
+Xie,Y.
+etal.
+(2022)SH3P2,anSH3domain-cont ainingprot eint hat interactswithb othPib and AvrPib,suppresseseffector-triggered.
+Pib-mediatedimmunityinrice.
+MolPlant 15, 1931 1946 69.
+Wang,K.
+etal.
+(2023)E3ubiquitinlig aseOsPIE3destabil ises theB-lec tinreceptor-like kinase PID2tocontrolblastdisease resistanceinrice.
+NewPhytol.
+237,1826 1842 70.
+Wang, J.
+etal.
+(2019)Acyclicnucleotide-gatedchannelmedi- ates cytoplasmiccalciumelevationanddiseaseresistancein rice.
+CellRes.
+29,820 831 71.
+Zhao,Q.
+etal.
+(2023)Calcium-bindingproteinOsANN1regu- latesriceblastdiseaseresistancebyinactivatingjasmonic acidsignaling.
+PlantPhysiol.
+192,1621 1637 72.
+Zhao,Y.
+etal.
+(20 22) Riceextra-largeGp roteinsplayp ivotal rolesincontrollingdiseaseresistanceandyield-relatedtraits.
+NewPhytol.
+234,607 617 73.
+Hao, Z.
+etal.
+(2022)AVQ-motif-containingpr otein  ne-tunes riceimmunityand gr owthbyahierarchicalregulatorymecha- nism.
+CellRep.
+40,111235 74.
+Cao,W.
+L.
+etal.
+(2019)OsSYP121accumulatesatfungalpene- trationsitesandmedi atesho s tresist anc etoriceblast.
+Plant Physiol.
+179,1330 1342 75.
+Li,Y.
+etal.
+(2019)Osa-miR398bboostsH 2 O 2 productionand riceblastdisease-resistanceviamultiplesuperoxide dismutases.
+NewPhytol.
+222,1507 1522 76.
+Zhao,Z.
+X.
+et al.
+(2020) Osa-miR167d facilitatesinfectionof Magnaportheoryzae inrice.
+J.
+Integr.
+Plant Biol.
+62,702 715 77.
+Feng,Q.
+etal.
+(2022)Osa-miR1 60aconfersbr oad-spectrum resistancetofungalandbacterialpathogensinrice.
+New Phytol.
+236,2216 2232 78.
+Zhang,L.
+L.
+etal.
+(2022)Osa-miR535 targets SQUAMOSApro- moterbindingprotein-like4 toregulateblastdiseaseresistance inrice.
+PlantJ.
+110,166 178 79.
+Li,Y.
+etal.
+(2022)BlockingOsa-miR1871enhancesrice resis- tanceagainst Magnaportheoryzae andyield.
+PlantBiotechnol.
+J.
+20,646 659 80.
+Campo,S.
+etal.
+(2021)Anoveltransposableelement-derived micr oRNApartici patesinplantimmunitytoriceblastdisease.
+Plant Biotechnol.
+J.
+19,1798 1811 81.
+W ang,H.
+etal.
+(2021 )SuppressionofricemiR168improves yield,  oweringtimeandimmunity.
+Nat.
+Plants 7,129 136 82.
+Zheng,L.
+etal.
+(2024)LongsmallRNA76113targetsCYCLIC NUCLEOTIDE-GATED IONCHANNEL5torepressdiseasere- sistanceinrice.
+Plant Physiol.
+194,1889 1905 83.
+Fan,J.
+etal .
+(2020)circRNAsare involvedinthe rice- Magnaportheoryzae interaction.
+PlantPhysiol.
+182,272 286 84.
+Shimono,M.
+etal.
+(2007)RiceWRKY45 playsacrucial rolein benzothiadiazole-ind ucibleblastresistance.
+PlantCell 19, 2064 2076 85.
+Ichimaru,K.
+etal.
+(2022) CooperativeregulationofPBI 1 and MAPKscontrols WRKY45transcriptionfactor inriceimmunity.
+Nat.
+Commun.
+13,2397 86.
+Wang,L.
+etal.
+(2023) OsWRKY10 extensivelyactivatesmultiple ricediterpenoidphytoalexin biosynthesis genestoenhancerice blastresistance.
+PlantJ.
+115,758 771 87.
+Wang,S.
+etal.
+(2023)Pho spho rylationandubiquitina tionof OsWRKY31areintegraltoOsMKK10-2-mediateddefense re- sponsesinrice.
+PlantCell 35,2391 2412 88.
+Li, W.
+etal.
+(2020) Sclerenchymacellthickeningthrough enhanced ligni  catio ninduced by OsMYB30 preventsfungal penetrationofriceleaves.
+NewPhytol.
+226,1850 1863 89.
+Niu,Y.
+etal.
+(2022)PhosphorylationofOsTGA5bycaseinki- naseIIcompromisesitssuppressionofdefense-relatedgene transcriptioninrice.
+PlantCell 34,3425 3442 90.
+Meng,F.
+etal.
+(2022)A riceproteinmodulatesendoplasmicre- ticulumhomeostasisandcoordinateswithatranscriptionfactor toinitiateblastdiseaseresistance.
+CellRep.
+39,110941 91.
+Liu,Z.
+etal.
+(2021)Recentprogressinricebroad-spectrumdis- easeresistance.
+Int.
+J.
+Mol.
+Sci.
+22,11658 92.
+Wang,C.
+etal.
+(2024)Genomeeditingcreatesdisease-resistant cropswithoutyieldpenalties.
+TrendsPlantSci.
+29,114 116 93.
+Cesari,S.
+etal.
+(2013)ThericeresistanceproteinpairRGA4/ RGA5recognizesthe Magnaportheor yzae effectorsAVR-Pia andAVR1-CO39bydirectbinding.
+PlantCell 25,1463 1481 94.
+Vo,K.
+T.
+X.
+etal.
+(2019)Pi5andPiipairedNLRsarefunctionally exchangeableandconfersimilardiseaseresistancespeci  city.
+Mol.
+Cells 42,637 645 95.
+DelaConcepcion, J.
+C.
+etal.
+(2021)Theallelicriceimmunere- ceptorPikhconfersextended resistancetostrainsoftheblast fungusthroughasinglepolymorphismintheeffectorbindingin- terface.
+PLoSPathog.
+17,e1009368 96.
+DelaConcepcion, J.
+C.
+etal.
+(2021)Functionaldiversi  cation gaverisetoallelicspecializationinariceNLRimmunereceptor pair.
+Elife 10,e71662 97.
+Bialas, A.
+etal.
+(2021)TwoNLRimmunereceptorsacquired high-af  nitybindingtoafungaleffectorthroughconvergent evolutionoftheirintegrateddomain.
+Elife 10,e66961 98.
+De la Con cepcion ,J.
+C.
+etal.
+(2019)Protein engineeringex- pandstheeffectorrecognitionpro  leofariceNLRimmunere- ceptor.
+Elife 8,e47713 99.
+Maidment,J.
+H.
+R.
+etal.
+(2023)Effectortarget-guidedengineer- ingofanintegrateddomainexpandsthediseaseresistance pro  leofariceNLRimmunereceptor.
+Elife 12,e81123 100.
+deGuillen,K.
+etal.
+(2015)Structureanalysisuncoversahighly diversebutstructurallyconservedeffectorfamilyinphytopatho- genicfungi.
+PLoSPathog.
+11,e1005228 101.
+Guo,L.
+etal.
+(2018)Speci  crecognitionoftwoMAXeffectors byintegrated HMA domainsinplantimmunereceptorsinvolves distinct bindingsurfaces.
+Proc.
+Natl.
+Acad.
+Sci.
+U.
+S.
+A.
+115, 11637 11642 102.
+Liu, Y.
+etal.
+(2021)AdesignerriceNLRimmunereceptor confers resistancet othericeblastfungus carrying noncorrespondingavirulenceeffectors.
+Proc.
+Natl.
+Aca d.
+Sci.
+U.
+S.
+A.
+118 ,e211 075 111 8 103.
+Zhang,X.
+etal.
+(2024)The syntheticNLRRGA5(HMA5)requires multipleinterfaceswithinandoutsidetheintegrated domainfor effectorrecognition.
+Nat.
+Commun.
+15,1104 104.
+Liu,X.
+etal.
+(2023)CRI SPR/Ca s9-mediate dsimul taneous mutationofthree salicylicacid5-hydroxylase ( OsS5H )genes confersbroad-spectrum diseaseresistanceinrice.
+Plant Biotechnol.
+J.
+21,1873 1886 105.
+Xu,Y.
+etal.
+(2023)Identi  cationoftwonovelrice S genes throughcombinationofassociationandtranscriptionanalyses withgene-editingtech nology.
+Plant B iotechnol.
+J.
+21, 1628 1641 106.
+Tao,H.
+et al.
+(2021)Engineeringbroad-spectrumdisease- resistantricebyeditingmultiplesusceptibilitygenes.
+J.
+Integr.
+Plant Biol.
+63,1639 1648 107.
+Zhou,Y.
+etal.
+(2022)Engineeringofricevarietieswithenhanced resistancestobothblastandbacterialblightdiseasesvia CRISPR/Cas9.
+Plant Biotechnol.
+J.
+20,876 885 108.
+Hu,B.
+etal.
+(2021)Repressed OsMESL expr essiontriggers reactiveoxygenspecies-mediatedbroad-spectrumdiseasere- sistanceinrice.
+Plant Biotechnol.
+J.
+19,1511 1522 109.
+Ding,Y.
+etal.
+(2023)Lossof OsHRC function confers blastre- sistancewithoutyieldp enaltyinrice.
+Plant Biotechnol.
+J.
+21, 1516 1518 110.
+Fukuoka, S.
+etal.
+(2009)Lossoffunctionofaproline-containing proteinconfersdurablediseaseresistanceinrice.
+Science 325, 998 1001 111.
+Sha ,G.
+etal.
+(2023)GenomeeditingofariceCDP-DAG syn thaseconfersmu ltipathogenresista nce.
+Nature 618, 1017 1023 112.
+Sun,C.
+etal.
+(2024)PreciseintegrationoflargeDNAsequences inplantgenomesusingPrimeRooteditors.
+Nat.
+Biotechnol.
+42, 316 327 113.
+Jin,B.
+J.
+etal.
+(2023)Host-inducedgenesilencingisapromis- ing biologicaltoolto characterizethepathogenicityof Magnaportheo ryzae andcontrolfungaldis easeinrice.
+Plant CellEnviron.
+319 336 114.
+Li,Y.
+B.
+etal.
+(2020) Magnaportheoryzae  mbrinorganizesactin networks inthehyphaltipduringpolargrowthandpathogene- sis.
+PLoSPathog.
+16,e1008437 115.
+Li,H.
+etal.
+(2023)MethioninebiosynthesisenzymeMoMet2is requir edforriceblastfunguspathogenicitybypromotingviru - lenceg eneexp ressio nviared ucing 5mCmodi  cation.
+PLoS Genet.
+19,e1010927 TrendsinMicrobiology 14 TrendsinMicrobiology,Month2024, Vol.
+xx,No.
+xx 
